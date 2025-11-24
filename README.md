@@ -17,7 +17,7 @@ The blinkit  wants to conduct a comprehensive analysis of Blinkit's sales perfor
 
 - Dashboard Interection <a href="https://github.com/poojabhatt2001/BlinkIT-Analysis-Dashboared/blob/main/Screenshot%202025-11-24%20145605.png"> View Dashboard </a>
 
-## 3. Chart's Requirements 
+## Chart's Requirements 
 - Total Sales by Fat Content:
 Objective: Analyze the impact of fat content on total sales.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
@@ -64,4 +64,9 @@ Chart Type:Matrix Card.
 
 -<img width="1578" height="862" alt="Screenshot 2025-11-24 145605" src="https://github.com/user-attachments/assets/7cd15b2c-a87f-45a2-b956-84dad4e95a1d" />
 
+## insights
 
+- Regular Fat products dominate sales, contributing approximately 60-65% of the total revenue, while Low Fat products make up the rest
+- Tier 3 Outlets consistently lead in total sales (around 39-42% of total revenue), followed by Tier 2, and then Tier 1.
+- Total Sales of $36.33M (or $1.20M based on common data sets) and 8523 items indicates strong overall market penetration and operational scale.
+  
