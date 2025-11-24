@@ -3,4 +3,4 @@ I developed a comprehensive project in Excel using multiple dashboard and table 
 ## Project Objective
 The blinkit  wants to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations.
 ## dataset used
-- <a href
+- <a href="https://github.com/poojabhatt2001/BlinkIT-Analysis-Dashboared/blob/main/BlinkIT%20Excel.xlsx"> DATASET </a>
