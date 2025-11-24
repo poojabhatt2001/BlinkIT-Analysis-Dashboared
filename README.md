@@ -15,4 +15,5 @@ The blinkit  wants to conduct a comprehensive analysis of Blinkit's sales perfor
 
 4.Average Rating: The average customer rating for items sold
 
-- Dashboard Interection <a href="https://github.com/poojabhatt2001/BlinkIT-Analysis-Dashboared/blob/main/Screenshot%202025-11-20%20215822.png"> View dDashboard </a?
+- Dashboard Interection <a href="https://github.com/poojabhatt2001/BlinkIT-Analysis-Dashboared/blob/main/Screenshot%202025-11-20%20215822.png"> View dDashboard </a>
+
