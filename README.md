@@ -15,7 +15,7 @@ The blinkit  wants to conduct a comprehensive analysis of Blinkit's sales perfor
 
 - Average Rating: The average customer rating for items sold
 
-- Dashboard Interaction <a href="https://github.com/poojabhatt2001/BlinkIT-Analysis-Dashboared/blob/main/Screenshot%202025-11-24%20145605.png"> View Dashboard </a>
+- Dashboard Interaction <a href="https://github.com/poojabhatt2001/BlinkIT-Analysis-Dashboared/blob/main/Screenshot%202025-12-11%20112506.png"> View Dashboard </a>
 
 ## Chart's Requirements 
 - Total Sales by Fat Content:
@@ -62,7 +62,8 @@ Chart Type:Matrix Card.
 
 ## Dashboard
 
--<img width="1578" height="862" alt="Screenshot 2025-11-24 145605" src="https://github.com/user-attachments/assets/7cd15b2c-a87f-45a2-b956-84dad4e95a1d" />
+<img width="1734" height="987" alt="Screenshot 2025-12-11 112603" src="https://github.com/user-attachments/assets/8b405b7c-b79c-4e19-aff7-4421374f59aa" />
+
 
 ## insights
 
