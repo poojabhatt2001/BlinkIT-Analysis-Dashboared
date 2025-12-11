@@ -15,7 +15,7 @@ The blinkit  wants to conduct a comprehensive analysis of Blinkit's sales perfor
 
 - Average Rating: The average customer rating for items sold
 
-- Dashboard Interaction <a href="https://github.com/poojabhatt2001/BlinkIT-Analysis-Dashboared/blob/main/Screenshot%202025-12-11%20112506.png"> View Dashboard </a>
+- Dashboard Interaction <a "href=https://github.com/poojabhatt2001/BlinkIT-Analysis-Dashboared/blob/main/Screenshot%202025-12-11%20112603.png"> View Dashboard </a>
 
 ## Chart's Requirements 
 - Total Sales by Fat Content:
